@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+outputs/
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.zip
+*_input.json
+*_response.json
